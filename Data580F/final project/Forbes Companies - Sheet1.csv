@@ -1,0 +1,501 @@
+Rank,Company,Industry,Revenue,Employees
+1,Amazon,Internet Services and Retailing,$716.9B,1.6M
+2,Walmart,General Merchandisers,$713.2B,2.1M
+3,UnitedHealth,Health Care: Insurance and Managed Care,$447.6B,400K
+4,Apple,"Computers, Office Equipment",$416.2B,164K
+5,Alphabet,Internet Services and Retailing,$402.8B,183.3K
+6,CVS Health,Health Care: Pharmacy and Other Services,$402.1B,259.5K
+7,McKesson,Wholesalers: Health Care,$387.1B,48K
+8,Berkshire Hathaway,Insurance: Property and Casualty (Stock),$377B,392.4K
+9,Exxon Mobil,Petroleum Refining,$332.2B,60.9K
+10,Cencora,Wholesalers: Health Care,$321.3B,44K
+11,Microsoft,Computer Software,$293.8B,228K
+12,Costco,General Merchandisers,$275.2B,333K
+13,Cigna,Health Care: Pharmacy and Other Services,$268.1B,72.4K
+14,Cardinal Health,Wholesalers: Health Care,$234.3B,48.4K
+15,Elevance Health,Health Care: Insurance and Managed Care,$194.8B,103.7K
+16,Ford Motor,Motor Vehicles & Parts,$189.6B,171K
+17,Meta,Internet Services and Retailing,$189.5B,74.1K
+18,Chevron,Petroleum Refining,$188.7B,45.3K
+19,General Motors,Motor Vehicles & Parts,$187.4B,162K
+20,Nvidia,Semiconductors and Other Electronic Components,$187.1B,36K
+21,Centene,Health Care: Insurance and Managed Care,$167.7B,60.5K
+22,JPMorgan Chase,Commercial Banks,$167.2B,317.2K
+23,Home Depot,Specialty Retailers: Other,$166.2B,470.1K
+24,Walgreens,Food & Drug Stores,$154.6B,252.5K
+25,Fannie Mae,Diversified Financials,$152.7B,8.2K
+26,Kroger,Food & Drug Stores,$147.2B,409K
+27,Verizon,Telecommunications,$137.5B,99.6K
+28,Marathon Petroleum,Petroleum Refining,$133.6B,18.3K
+29,Phillips 66,Petroleum Refining,$131.9B,13.2K
+30,StoneX,Diversified Financials,$130.9B,4.5K
+31,Humana,Health Care: Insurance and Managed Care,$126.4B,65.7K
+32,AT&T,Telecommunications,$124.5B,141K
+33,Comcast,Telecommunications,$123.3B,182K
+34,State Farm,Insurance: Property and Casualty (Mutual),$123B,67.4K
+35,Freddie Mac,Diversified Financials,$122.1B,8.1K
+36,Valero Energy,Petroleum Refining,$116.5B,9.9K
+37,Target,General Merchandisers,$105.2B,440K
+38,Dell Technologies,"Computers, Office Equipment",$104.1B,108K
+39,Bank of America,Commercial Banks,$101.5B,213.2K
+40,Tesla,Motor Vehicles & Parts,$95.6B,125.7K
+41,Walt Disney,Entertainment,$94.4B,205K
+42,PepsiCo,Food Consumer Products,$92.4B,319K
+43,Johnson & Johnson,Pharmaceuticals,$92.2B,138.1K
+44,UPS,"Mail, Package and Freight Delivery",$89.5B,372.2K
+45,FedEx,"Mail, Package and Freight Delivery",$88.6B,422.1K
+46,RTX,Aerospace & Defense,$86B,186K
+47,Progressive,Insurance: Property and Casualty (Stock),$85.2B,66.3K
+48,Procter & Gamble,Household and Personal Products,$84.9B,108K
+49,Lowe's,Specialty Retailers: Other,$84.3B,215.5K
+50,Archer Daniels Midland,Food Production,$83.2B,43.2K
+51,Sysco,Wholesalers: Food and Grocery,$82B,76K
+52,Albertsons,Food & Drug Stores,$81.4B,196.7K
+53,Boeing,Aerospace & Defense,$80.8B,172K
+54,Energy Transfer,Pipelines,$79.8B,16.2K
+55,Wells Fargo,Commercial Banks,$79.1B,217.5K
+56,Citi,Commercial Banks,$75.4B,227.9K
+57,HCA Healthcare,Health Care: Medical Facilities,$74.4B,271K
+58,Lockheed Martin,Aerospace & Defense,$73.3B,121K
+59,MetLife,"Insurance: Life, Health (Stock)",$71.9B,45K
+60,Morgan Stanley,Commercial Banks,$68.5B,80.5K
+61,Allstate,Insurance: Property and Casualty (Stock),$66.8B,55.2K
+62,IBM,Information Technology Services,$65.4B,284.5K
+63,American Express,Diversified Financials,$65.3B,75.1K
+64,Caterpillar,Construction and Farm Machinery,$64.7B,112.9K
+65,Merck,Pharmaceuticals,$64.2B,74K
+66,Delta Airlines,Airlines,$62.9B,103K
+67,Pfizer,Pharmaceuticals,$62.8B,81K
+68,New York Life Insurance,"Insurance: Life, Health (Mutual)",$62.6B,15.1K
+69,Performance Food,Wholesalers: Food and Grocery,$61.6B,36.8K
+70,ConocoPhillips,"Mining, Crude-Oil Production",$61.3B,11.8K
+71,Oracle,Computer Software,$61B,159K
+72,TD Synnex,Wholesalers: Electronics and Office Equipment,$61B,25.8K
+73,Publix Super Markets,Food & Drug Stores,$60.2B,255K
+74,Broadcom,Semiconductors and Other Electronic Components,$59.9B,37K
+75,AbbVie,Pharmaceuticals,$59.6B,55K
+76,Eli Lilly,Pharmaceuticals,$59.4B,47K
+77,TJX,Specialty Retailers: Apparel,$59B,364K
+78,Nationwide,Insurance: Property and Casualty (Mutual),$58.6B,22.5K
+79,United Airlines,Airlines,$58.4B,107.3K
+80,Cisco Systems,Network and Other Communications Equipment,$57.7B,90.4K
+81,Prudential Financial,"Insurance: Life, Health (Stock)",$57.6B,37.9K
+82,Goldman Sachs,Commercial Banks,$57.3B,46.5K
+83,HP,"Computers, Office Equipment",$55.3B,58K
+84,Charter Communications,Telecommunications,$55.1B,94.5K
+85,Tyson Foods,Food Production,$54.4B,138K
+86,American Airlines,Airlines,$54.3B,133.3K
+87,Intel,Semiconductors and Other Electronic Components,$53.4B,108.9K
+88,Enterprise Products Partners,Pipelines,$53B,7.8K
+89,General Dynamics,Aerospace & Defense,$51.5B,117K
+90,Ingram Micro,Wholesalers: Electronics and Office Equipment,$51B,26.1K
+91,Liberty Mutual Insurance,Insurance: Property and Casualty (Stock),$50.4B,40K
+92,Uber,Internet Services and Retailing,$49.6B,31.1K
+93,USAA,Insurance: Property and Casualty (Stock),$48.6B,38K
+94,Travelers,Insurance: Property and Casualty (Stock),$48.4B,34K
+95,Bristol-Myers Squibb,Pharmaceuticals,$48B,34.1K
+96,Coca-Cola,Beverages,$47.7B,69.7K
+97,TIAA,"Insurance: Life, Health (Mutual)",$46.9B,15.6K
+98,Plains GP,Pipelines,$46.9B,4.2K
+99,Nike,Apparel,$46.4B,79.4K
+100,Deere,Construction and Farm Machinery,$45.7B,55.5K
+101,Qualcomm,Semiconductors and Other Electronic Components,$44.3B,49K
+102,General Electric,Aerospace & Defense,$44B,53K
+103,Abbott Laboratories,Medical Products and Equipment,$43.8B,114K
+104,Thermo Fisher Scientific,"Scientific, Photographic and Control Equipment",$43.7B,125K
+105,Netflix,Entertainment,$43.4B,14K
+106,Mass Mutual,"Insurance: Life, Health (Mutual)",$43.1B,11.2K
+107,Molina Healthcare,Health Care: Insurance and Managed Care,$42.8B,18K
+108,Dollar General,Specialty Retailers: Other,$42.1B,194.2K
+109,Best Buy,Specialty Retailers: Other,$41.8B,85K
+110,Northwestern Mutual,"Insurance: Life, Health (Mutual)",$41.4B,8.2K
+111,Northrop Grumman,Aerospace & Defense,$40.9B,97K
+112,Dow,Chemicals,$40.9B,36K
+113,Honeywell,Industrial Machinery,$40.7B,102K
+114,Salesforce,Computer Software,$40.3B,76.5K
+115,Visa,Financial Data Services,$40B,31.6K
+116,Philip Morris,Tobacco,$40B,83.1K
+117,CBRE,Real Estate,$39.3B,140K
+118,CHS,Food Production,$39.3B,10.7K
+119,US Foods,Wholesalers: Food and Grocery,$39.1B,30K
+120,Warner Bros. Discovery,Entertainment,$37.9B,35K
+121,GE Vernova,Energy,$37.7B,76.8K
+122,World Kinect,Energy,$37.6B,4.7K
+123,Mondelez,Food Consumer Products,$37.6B,90K
+124,Lithia Motors,"Automotive Retailing, Services",$37.6B,30.2K
+125,Micron Technology,Semiconductors and Other Electronic Components,$37.4B,48K
+126,Starbucks,Food Services,$37.2B,361K
+127,Amgen,Pharmaceuticals,$36B,28K
+128,Lennar,Homebuilders,$34.8B,13.3K
+129,Hewlett Packard,"Computers, Office Equipment",$34.3B,61K
+130,D.R. Horton,Homebuilders,$34.3B,14.8K
+131,Coupang,Internet Services and Retailing,$33.7B,95K
+132,Cummins,Industrial Machinery,$33.6B,69.6K
+133,GuideWell Mutual,"Insurance: Life, Health (Stock)",$33B,17.9K
+134,PayPal,Financial Data Services,$32.9B,24.4K
+135,Advanced Micro Devices,Semiconductors and Other Electronic Components,$32B,28K
+136,Nucor,Metals,$31.9B,32.7K
+137,United Natural Foods,Wholesalers: Food and Grocery,$31.8B,28.3K
+138,Oneok,Pipelines,$31.6B,5.2K
+139,Mastercard,Financial Data Services,$31.5B,35.3K
+140,Duke Energy,Utilities: Gas and Electric,$31.2B,26.4K
+141,Ferguson,Wholesalers: Diversified,$31.2B,35K
+142,Penske Automotive,"Automotive Retailing, Services",$30.7B,28.9K
+143,Jabil,Semiconductors and Other Electronic Components,$29.8B,138K
+144,NRG Energy,Energy,$29.8B,15.6K
+145,PBF Energy,Petroleum Refining,$29.5B,3.9K
+146,Paccar,Motor Vehicles & Parts,$29.5B,30.1K
+147,Arrow Electronics,Wholesalers: Electronics and Office Equipment,$29.4B,21.5K
+148,Gilead Sciences,Pharmaceuticals,$29.1B,17.6K
+149,Southern,Utilities: Gas and Electric,$28.9B,28.5K
+150,Capital One,Commercial Banks,$28.9B,52.6K
+151,Paramount,Entertainment,$28.7B,20.4K
+152,Applied Materials,Semiconductors and Other Electronic Components,$28.4B,35.7K
+153,CarMax,"Automotive Retailing, Services",$28.3B,29.8K
+154,AutoNation,"Automotive Retailing, Services",$27.9B,25.1K
+155,Hartford Insurance,Insurance: Property and Casualty (Stock),$27.9B,19.1K
+156,Baker Hughes,"Oil and Gas Equipment, Services",$27.7B,57K
+157,Southwest Airlines,Airlines,$27.6B,72.5K
+158,Apollo Global Management,Securities,$27.2B,5.1K
+159,Quanta Services,Engineering & Construction,$27.2B,58.4K
+160,American International,Insurance: Property and Casualty (Stock),$27.1B,22.2K
+161,HF Sinclair,Petroleum Refining,$26.9B,5.3K
+162,Occidental Petroleum,"Mining, Crude-Oil Production",$26.6B,13.3K
+163,Marsh & McLennan,Diversified Financials,$26.4B,90K
+164,NextEra Energy,Utilities: Gas and Electric,$26.3B,16.8K
+165,McDonald's,Food Services,$26.3B,150K
+166,Booking.com,Internet Services and Retailing,$26B,24.2K
+167,U.S. Bancorp,Commercial Banks,$26B,70.3K
+168,Freeport-McMoRan,"Mining, Crude-Oil Production",$26B,28.5K
+169,Jones Lang LaSalle,Real Estate,$25.3B,112.1K
+170,Kraft Heinz,Food Consumer Products,$25.2B,36K
+171,Marriott International,"Hotels, Casinos, Resorts",$25.1B,155K
+172,Constellation Energy,Energy,$24.8B,14.2K
+173,3M,Chemicals,$24.8B,61.5K
+174,Waste Management,Waste Management,$24.8B,61.7K
+175,PG&E,Utilities: Gas and Electric,$24.8B,28.4K
+176,Live Nation Entertainment,Entertainment,$24.6B,24.2K
+177,Union Pacific,Railroads,$24.6B,32.4K
+178,Stryker,Medical Products and Equipment,$24.4B,53K
+179,International Paper,"Packaging, Containers",$24.3B,37K
+180,Exelon,Utilities: Gas and Electric,$24.3B,20K
+181,Danaher,Medical Products and Equipment,$24.3B,62K
+182,Genuine Parts,Wholesalers: Diversified,$24.1B,63K
+183,Block,Financial Data Services,$24B,11.4K
+184,Adobe,Computer Software,$23.8B,30.7K
+185,Sherwin-Williams,Chemicals,$23.3B,63.9K
+186,Lear,Motor Vehicles & Parts,$23B,173.7K
+187,WESCO International,Wholesalers: Diversified,$22.9B,20K
+188,Charles Schwab,Securities,$22.9B,32.1K
+189,BlackRock,Securities,$22.9B,21.1K
+190,Macy's,General Merchandisers,$22.7B,94.2K
+191,EOG Resources,"Mining, Crude-Oil Production",$22.6B,3.1K
+192,1 Automotive,"Automotive Retailing, Services",$22.5B,20.4K
+193,Avnet,Wholesalers: Electronics and Office Equipment,$22.5B,15.5K
+194,Reinsurance of America,"Insurance: Life, Health (Stock)",$22.3B,4.1K
+195,KKR,Securities,$22.3B,4.8K
+196,Halliburton,"Oil and Gas Equipment, Services",$22.1B,48K
+197,CDW,Information Technology Services,$22.1B,15.1K
+198,Carrier Global,Industrial Machinery,$22.1B,48K
+199,Ross Stores,Specialty Retailers: Apparel,$22B,107K
+200,Becton Dickinson,Medical Products and Equipment,$21.8B,74K
+201,PNC,Commercial Banks,$21.8B,54.4K
+202,L3Harris Technologies,Aerospace & Defense,$21.7B,47K
+203,Newmont,"Mining, Crude-Oil Production",$21.5B,22.2K
+204,American Family Insurance,Insurance: Property and Casualty (Stock),$21.3B,11.1K
+205,American Electric Power,Utilities: Gas and Electric,$21.3B,16.3K
+206,BJ's Wholesale Club,General Merchandisers,$21.2B,33K
+207,Fiserv,Financial Data Services,$21.2B,38K
+208,Super Micro Computer,"Computers, Office Equipment",$21.1B,5.7K
+209,Amphenol,Network and Other Communications Equipment,$21B,125K
+210,Automatic Data Processing,Diversified Outsourcing Services,$20.9B,64K
+211,Cognizant Technology,Information Technology Services,$20.9B,336.8K
+212,Tenet Healthcare,Health Care: Medical Facilities,$20.9B,86.2K
+213,GE HealthCare Technologies,Medical Products and Equipment,$20.3B,53K
+214,Altria,Tobacco,$20.2B,6.2K
+215,Colgate-Palmolive,Household and Personal Products,$20.1B,34K
+216,Parker-Hannifin,Industrial Machinery,$20B,61.1K
+217,Bank of New York,Commercial Banks,$19.7B,51.8K
+218,Kimberly-Clark,Household and Personal Products,$19.7B,38K
+219,Lam Research,Semiconductors and Other Electronic Components,$19.6B,17.4K
+220,Intuit,Computer Software,$19.4B,24.2K
+221,Boston Scientific,Medical Products and Equipment,$19.4B,53K
+222,AutoZone,Specialty Retailers: Other,$19.3B,100.8K
+223,General Mills,Food Consumer Products,$19.2B,34K
+224,Dollar Tree,Specialty Retailers: Other,$19B,139.6K
+225,Cheniere Energy,Pipelines,$18.9B,1.7K
+226,Cleveland-Cliffs,Metals,$18.6B,30K
+227,Ameriprise Financial,Diversified Financials,$18.5B,13.6K
+228,Aramark,Diversified Outsourcing Services,$18.5B,266.7K
+229,Lincoln National,"Insurance: Life, Health (Stock)",$18.4B,9.8K
+230,Corebridge Financial,Diversified Financials,$18.3B,5.2K
+231,Goodyear Tire & Rubber,Motor Vehicles & Parts,$18.3B,68K
+232,Truist Financial,Commercial Banks,$18.3B,37.6K
+233,Loews,Insurance: Property and Casualty (Stock),$18.3B,13K
+234,Carvana,"Automotive Retailing, Services",$18.3B,17.4K
+235,Global Partners,Energy,$18.1B,3.8K
+236,Edison International,Utilities: Gas and Electric,$18.1B,14K
+237,Emerson Electric,Industrial Machinery,$18B,73K
+238,Asbury Automotive,"Automotive Retailing, Services",$17.8B,15K
+239,W.W. Grainger,Wholesalers: Diversified,$17.8B,25K
+240,Aflac,"Insurance: Life, Health (Stock)",$17.7B,12.7K
+241,Manpower,Diversified Outsourcing Services,$17.6B,26.7K
+242,Steel Dynamics,Metals,$17.6B,13K
+243,Pulte,Homebuilders,$17.6B,6.8K
+244,Discover Financial,Diversified Financials,$17.5B,21K
+245,Corteva,Food Production,$17.5B,22K
+246,O'Reilly Automotive,Specialty Retailers: Other,$17.5B,85.6K
+247,Targa Resources,Pipelines,$17.4B,3.4K
+248,Leidos,Information Technology Services,$17.3B,48K
+249,MGM Resorts International,"Hotels, Casinos, Resorts",$17.3B,69K
+250,Texas Instruments,Semiconductors and Other Electronic Components,$17.3B,34K
+251,Vistra,Energy,$17.2B,6.8K
+252,Murphy USA,Specialty Retailers: Other,$17B,11.6K
+253,Universal Health Services,Health Care: Medical Facilities,$17B,87.5K
+254,Casey's General Stores,Specialty Retailers: Other,$17B,33.1K
+255,Peter Kiewit Sons',Engineering & Construction,$16.8B,31.8K
+256,Consolidated Edison,Utilities: Gas and Electric,$16.6B,15.1K
+257,Devon Energy,"Mining, Crude-Oil Production",$16.6B,2.3K
+258,C.H. Robinson Worldwide,Transportation and Logistics,$16.5B,13.8K
+259,Republic Services,Waste Management,$16.5B,42K
+260,Guardian Life,"Insurance: Life, Health (Mutual)",$16.5B,7.5K
+261,Fox,Entertainment,$16.5B,10.2K
+262,Kinder Morgan,Pipelines,$16.4B,10.9K
+263,Edward Jones,Securities,$16.3B,55K
+264,EMCOR,Engineering & Construction,$16.2B,40.4K
+265,Markel,Insurance: Property and Casualty (Stock),$16.2B,22K
+266,Land O'Lakes,Food Consumer Products,$16.2B,9K
+267,Keurig Dr Pepper,Beverages,$16.2B,29.4K
+268,AECOM,Engineering & Construction,$16.1B,51K
+269,Omnicom,"Advertising, Marketing",$16.1B,74.9K
+270,United Rentals,Specialty Retailers: Other,$16B,27.9K
+271,IQVIA,Health Care: Pharmacy and Other Services,$15.9B,88K
+272,Ecolab,Chemicals,$15.9B,48K
+273,Illinois Tool Works,Industrial Machinery,$15.9B,44K
+274,Auto-Owners Insurance,Insurance: Property and Casualty (Mutual),$15.8B,7.3K
+275,Pacific Life,"Insurance: Life, Health (Stock)",$15.8B,4.3K
+276,Dominion Energy,Utilities: Gas and Electric,$15.8B,14.7K
+277,Principal Financial,"Insurance: Life, Health (Stock)",$15.8B,19.7K
+278,Kohl's,General Merchandisers,$15.8B,60K
+279,PPG Industries,Chemicals,$15.7B,46K
+280,Builders FirstSource,"Building Materials, Glass",$15.7B,29K
+281,Fluor,Engineering & Construction,$15.6B,26.9K
+282,Whirlpool,"Electronics, Electrical Equip.",$15.6B,44K
+283,Farmers Insurance Exchange,Insurance: Property and Casualty (Mutual),$15.5B,9.9K
+284,Tractor Supply,Specialty Retailers: Other,$15.4B,39K
+285,Gap,Specialty Retailers: Apparel,$15.3B,82K
+286,EchoStar,Telecommunications,$15.2B,13.7K
+287,Sonic Automotive,"Automotive Retailing, Services",$15.2B,10.8K
+288,Stanley Black & Decker,Industrial Machinery,$15.2B,48.5K
+289,LPL Financial,Securities,$15.2B,9K
+290,Kyndryl,Information Technology Services,$15B,80K
+291,Kenvue,Household and Personal Products,$15B,22K
+292,S&P Global,Financial Data Services,$15B,42.4K
+293,Corning,"Electronics, Electrical Equip.",$14.9B,56.3K
+294,Dick's Sporting Goods,Specialty Retailers: Other,$14.9B,37.4K
+295,DTE Energy,Utilities: Gas and Electric,$14.8B,9.5K
+296,W.R. Berkley,Insurance: Property and Casualty (Stock),$14.7B,8.6K
+297,Diamondback Energy,"Mining, Crude-Oil Production",$14.6B,2K
+298,Mutual of Omaha Insurance,"Insurance: Life, Health (Mutual)",$14.6B,6.5K
+299,Nordstrom,General Merchandisers,$14.5B,41K
+300,Estée Lauder,Household and Personal Products,$14.4B,53K
+301,Expedia,Internet Services and Retailing,$14.4B,16.5K
+302,Otis Worldwide,Industrial Machinery,$14.3B,72K
+303,FirstEnergy,Utilities: Gas and Electric,$14.3B,12.3K
+304,Regeneron Pharmaceuticals,Pharmaceuticals,$14.3B,15.1K
+305,Textron,Aerospace & Defense,$14.2B,34K
+306,Xcel Energy,Utilities: Gas and Electric,$14.2B,11.4K
+307,BorgWarner,Motor Vehicles & Parts,$14.2B,38.3K
+308,Alaska Air,Airlines,$14.1B,32.1K
+309,Viatris,Pharmaceuticals,$14.1B,32K
+310,CSX,Railroads,$14.1B,23.5K
+311,LKQ,Wholesalers: Diversified,$14.1B,47K
+312,Fidelity National Financial,Insurance: Property and Casualty (Stock),$14.1B,23.5K
+313,Raymond James Financial,Securities,$14B,19K
+314,Reliance,Metals,$13.9B,16.1K
+315,Labcorp,Health Care: Pharmacy and Other Services,$13.8B,65.5K
+316,Western & Southern Financial,"Insurance: Life, Health (Mutual)",$13.8B,2.7K
+317,MasTec,Engineering & Construction,$13.8B,32K
+318,Sempra,Utilities: Gas and Electric,$13.7B,16.8K
+319,State Street,Commercial Banks,$13.6B,52.6K
+320,United States Steel,Metals,$13.5B,22.1K
+321,DaVita,Health Care: Medical Facilities,$13.3B,76K
+322,BrightSpring Health Services,Health Care: Pharmacy and Other Services,$13.3B,37K
+323,Erie Insurance,Insurance: Property and Casualty (Mutual),$13.2B,6.7K
+324,Eversource Energy,Utilities: Gas and Electric,$13.2B,10.7K
+325,Unum,"Insurance: Life, Health (Stock)",$13.1B,10.9K
+326,Henry Schein,Wholesalers: Health Care,$12.9B,25K
+327,GXO Logistics,Transportation and Logistics,$12.9B,128.5K
+328,Alcoa,Metals,$12.9B,13.9K
+329,DuPont,Chemicals,$12.8B,24K
+330,Blackstone,Diversified Financials,$12.8B,4.9K
+331,Entergy,Utilities: Gas and Electric,$12.7B,12.3K
+332,DXC Technology,Information Technology Services,$12.7B,130K
+333,Lumen Technologies,Telecommunications,$12.7B,25K
+334,Ball,"Packaging, Containers",$12.7B,16K
+335,Ryder System,Transportation and Logistics,$12.7B,50.7K
+336,Kellanova,Food Consumer Products,$12.7B,24K
+337,ServiceNow,Computer Software,$12.7B,26.3K
+338,Community Health Systems,Health Care: Medical Facilities,$12.6B,52.5K
+339,DoorDash,Internet Services and Retailing,$12.6B,23.7K
+340,Chewy,Internet Services and Retailing,$12.6B,18K
+341,Assurant,Insurance: Property and Casualty (Stock),$12.6B,14.2K
+342,KLA,Semiconductors and Other Electronic Components,$12.5B,15.1K
+343,Darden Restaurants,Food Services,$12.4B,191.1K
+344,Las Vegas Sands,"Hotels, Casinos, Resorts",$12.3B,40.1K
+345,Wayfair,Internet Services and Retailing,$12.2B,12.1K
+346,Norfolk Southern,Railroads,$12.2B,19.6K
+347,Equitable,"Insurance: Life, Health (Stock)",$12.2B,10.3K
+348,Crown,"Packaging, Containers",$12.1B,23K
+349,Hormel Foods,Food Consumer Products,$12.1B,20K
+350,AES,Utilities: Gas and Electric,$12.1B,9.1K
+351,Arthur J. Gallagher,Diversified Financials,$12.1B,56K
+352,Cincinnati Financial,Insurance: Property and Casualty (Stock),$12.1B,5.6K
+353,J.B. Hunt Transport Services,"Trucking, Truck Leasing",$12.1B,33.6K
+354,Air Products & Chemicals,Chemicals,$12B,22.4K
+355,Jacobs Solutions,Diversified Outsourcing Services,$12B,44K
+356,Huntington Ingalls Industries,Aerospace & Defense,$12B,44K
+357,Hess,"Mining, Crude-Oil Production",$12B,1.8K
+358,Ulta Beauty,Specialty Retailers: Other,$12B,39K
+359,Airbnb,Internet Services and Retailing,$11.9B,7.3K
+360,Mosaic,Chemicals,$11.9B,13.8K
+361,Chipotle Mexican Grill,Food Services,$11.8B,130.5K
+362,Vertex Pharmaceuticals,Pharmaceuticals,$11.7B,6.1K
+363,Public Service Enterprise,Utilities: Gas and Electric,$11.7B,13K
+364,Booz Allen Hamilton,Information Technology Services,$11.7B,34.2K
+365,Avis Budget,"Automotive Retailing, Services",$11.7B,20.5K
+366,Owens Corning,"Building Materials, Glass",$11.7B,25K
+367,Graybar Electric,Wholesalers: Diversified,$11.6B,10K
+368,Andersons,Food Production,$11.6B,2.3K
+369,Williams,Pipelines,$11.6B,5.8K
+370,Berry Global,"Packaging, Containers",$11.5B,42K
+371,Yum China,Food Services,$11.5B,245.5K
+372,Hershey,Food Consumer Products,$11.5B,19.3K
+373,Westlake,Chemicals,$11.5B,15.5K
+374,Conagra Brands,Food Consumer Products,$11.4B,18.5K
+375,Caesars Entertainment,"Hotels, Casinos, Resorts",$11.4B,50K
+376,Motorola Solutions,Network and Other Communications Equipment,$11.3B,21K
+377,Oscar Health,Health Care: Insurance and Managed Care,$11.3B,2.4K
+378,Molson Coors Beverage,Beverages,$11.2B,16.8K
+379,Burlington Stores,Specialty Retailers: Apparel,$11.2B,47.3K
+380,Expeditors International of Washington,Transportation and Logistics,$11.2B,18.9K
+381,International Flavors & Fragrances,Chemicals,$11.1B,22.4K
+382,Baxter International,Medical Products and Equipment,$11B,38K
+383,Analog Devices,Semiconductors and Other Electronic Components,$11B,24K
+384,Hilton,"Hotels, Casinos, Resorts",$11B,181K
+385,Toll Brothers,Homebuilders,$11B,4.9K
+386,Thrivent Financial for Lutherans,"Insurance: Life, Health (Mutual)",$10.9B,4K
+387,Quest Diagnostics,Health Care: Pharmacy and Other Services,$10.8B,50.5K
+388,Interpublic,"Advertising, Marketing",$10.8B,53.3K
+389,Westinghouse Air Brake Technologies,Industrial Machinery,$10.8B,29.5K
+390,Owens & Minor,Wholesalers: Health Care,$10.8B,23.2K
+391,Mohawk Industries,"Home Equipment, Furnishings",$10.7B,41.9K
+392,Ebay,Internet Services and Retailing,$10.7B,11.5K
+393,Delek US,Petroleum Refining,$10.7B,2K
+394,NVR,Homebuilders,$10.6B,7K
+395,Cintas,Diversified Outsourcing Services,$10.6B,46.5K
+396,Ally Financial,Diversified Financials,$10.5B,10.7K
+397,Lululemon athletica,Specialty Retailers: Apparel,$10.5B,39K
+398,A-Mark Precious Metals,Wholesalers: Diversified,$10.5B,486
+399,Fidelity National Information,Financial Data Services,$10.5B,50K
+400,American Tower,Real Estate,$10.4B,4.7K
+401,FM,Insurance: Property and Casualty (Stock),$10.4B,5.8K
+402,Autoliv,Motor Vehicles & Parts,$10.4B,62.3K
+403,Oshkosh,Construction and Farm Machinery,$10.3B,18.5K
+404,Campbell's,Food Consumer Products,$10.2B,14.4K
+405,Western Digital,"Computers, Office Equipment",$10.1B,51K
+406,Global Payments,Financial Data Services,$10.1B,27K
+407,Biogen,Pharmaceuticals,$10.1B,7.6K
+408,AGCO,Construction and Farm Machinery,$10.1B,24K
+409,Dana,Motor Vehicles & Parts,$10B,39.6K
+410,Welltower,Real Estate,$9.9B,685
+411,THOR Industries,Motor Vehicles & Parts,$9.8B,22.3K
+412,Seaboard,Food Production,$9.8B,14K
+413,Intercontinental Exchange,Securities,$9.8B,12.9K
+414,Concentrix,Information Technology Services,$9.7B,450K
+415,Celanese,Chemicals,$9.7B,12.2K
+416,Vertiv,"Electronics, Electrical Equip.",$9.7B,31K
+417,Synchrony Financial,Diversified Financials,$9.7B,20K
+418,Constellation Brands,Beverages,$9.6B,9.3K
+419,Intuitive Surgical,Medical Products and Equipment,$9.6B,15.6K
+420,Palo Alto Networks,Network and Other Communications Equipment,$9.6B,15.3K
+421,WEC Energy,Utilities: Gas and Electric,$9.6B,7K
+422,VF,Apparel,$9.5B,24K
+423,SpartanNash,Wholesalers: Food and Grocery,$9.5B,15K
+424,QVC,Internet Services and Retailing,$9.5B,19K
+425,Ace Hardware,Wholesalers: Diversified,$9.5B,12.5K
+426,Zoetis,Pharmaceuticals,$9.4B,13.8K
+427,APA,"Mining, Crude-Oil Production",$9.4B,2.3K
+428,Skechers U.S.A.,Apparel,$9.3B,15.1K
+429,Icahn Enterprises,Diversified Financials,$9.3B,15K
+430,Workday,Computer Software,$9.2B,20.5K
+431,CenterPoint Energy,Utilities: Gas and Electric,$9.1B,8.9K
+432,JetBlue Airways,Airlines,$9.1B,19.8K
+433,Prologis,Real Estate,$9.1B,2.7K
+434,M&T Bank,Commercial Banks,$9.1B,22.1K
+435,Equinix,Real Estate,$9.1B,13.6K
+436,Eastman Chemical,Chemicals,$9B,14K
+437,Altice USA,Telecommunications,$9B,10.9K
+438,PPL,Utilities: Gas and Electric,$9B,6.7K
+439,First Citizens BancShares,Commercial Banks,$8.9B,17.3K
+440,Xylem,Industrial Machinery,$8.9B,23K
+441,CACI International,Information Technology Services,$8.9B,24K
+442,TransDigm,Aerospace & Defense,$8.8B,16.6K
+443,PVH,Apparel,$8.8B,22K
+444,Ovintiv,"Mining, Crude-Oil Production",$8.8B,1.6K
+445,NOV,"Oil and Gas Equipment, Services",$8.8B,34K
+446,Avery Dennison,"Packaging, Containers",$8.8B,35K
+447,Franklin Resources,Securities,$8.8B,10.2K
+448,Packaging Corp. of America,"Packaging, Containers",$8.8B,15.4K
+449,J.M. Smucker,Food Consumer Products,$8.8B,9K
+450,Old Republic International,Insurance: Property and Casualty (Stock),$8.8B,9.4K
+451,Sprouts Farmers Market,Food & Drug Stores,$8.7B,35K
+452,ABM Industries,Diversified Outsourcing Services,$8.6B,117K
+453,Advance Auto Parts,Specialty Retailers: Other,$8.6B,48K
+454,Graphic Packaging,"Packaging, Containers",$8.6B,23K
+455,Sirius XM,Entertainment,$8.6B,5.5K
+456,Hertz,"Automotive Retailing, Services",$8.5B,26K
+457,Jefferies Financial,Diversified Financials,$8.5B,7.8K
+458,News Corp.,"Publishing, Printing",$8.5B,23.9K
+459,Solventum,Medical Products and Equipment,$8.4B,22K
+460,Taylor Morrison Home,Homebuilders,$8.4B,3K
+461,Rockwell Automation,"Electronics, Electrical Equip.",$8.3B,27K
+462,CMS Energy,Utilities: Gas and Electric,$8.3B,8.3K
+463,Insight Enterprises,Information Technology Services,$8.3B,14.3K
+464,Securian Financial,"Insurance: Life, Health (Stock)",$8.2B,5.6K
+465,Post,Food Consumer Products,$8.2B,11.5K
+466,Fifth Third Bancorp,Commercial Banks,$8.1B,18.6K
+467,Sanmina,Semiconductors and Other Electronic Components,$8.1B,34.5K
+468,Voya Financial,Diversified Financials,$8.1B,10K
+469,XPO,Transportation and Logistics,$8.1B,39.5K
+470,Yum Brands,Food Services,$8.1B,31.7K
+471,KBR,Information Technology Services,$8B,38K
+472,American Financial,Insurance: Property and Casualty (Stock),$8B,8.7K
+473,Zimmer Biomet,Medical Products and Equipment,$8B,17K
+474,Fastenal,Wholesalers: Diversified,$8B,21K
+475,Foot Locker,Specialty Retailers: Apparel,$8B,30.2K
+476,Monster Beverage,Beverages,$8B,6K
+477,Howmet Aerospace,Aerospace & Defense,$8B,23.9K
+478,Northern Trust,Commercial Banks,$7.9B,23.3K
+479,Dover,Industrial Machinery,$7.9B,24K
+480,Williams-Sonoma,Specialty Retailers: Other,$7.9B,19.6K
+481,ARKO,Specialty Retailers: Other,$7.9B,11.8K
+482,Vulcan Materials,"Building Materials, Glass",$7.9B,12K
+483,Regions Financial,Commercial Banks,$7.8B,19.6K
+484,Commercial Metals,Metals,$7.8B,13.2K
+485,Core & Main,Wholesalers: Diversified,$7.8B,5.7K
+486,Rush Enterprises,"Automotive Retailing, Services",$7.7B,7.9K
+487,Microchip Technology,Semiconductors and Other Electronic Components,$7.6B,22.3K
+488,Masco,"Home Equipment, Furnishings",$7.6B,18K
+489,Interactive Brokers,Securities,$7.5B,3K
+490,Huntington Bancshares,Commercial Banks,$7.5B,19.9K
+491,Endeavor,Entertainment,$7.5B,10K
+492,Par Pacific,Petroleum Refining,$7.5B,1.8K
+493,Citizens Financial,Commercial Banks,$7.4B,17.3K
+494,Watsco,Wholesalers: Diversified,$7.4B,7.3K
+495,Science Applications International,Information Technology Services,$7.3B,24K
+496,Electronic Arts,Entertainment,$7.3B,13.7K
+497,Newell Brands,"Home Equipment, Furnishings",$7.3B,23.7K
+498,Ingredion,Food Production,$7.3B,11.2K
+499,KeyCorp,Commercial Banks,$7.2B,16.8K
+500,QXO Building Products,Wholesalers: Diversified,$5.5B,8.1K
